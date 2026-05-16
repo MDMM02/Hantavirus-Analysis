@@ -1,0 +1,23 @@
+metric,value,species,segment,flag
+original_sequences,9412,,,
+with_segment_SML,8647,,,
+after_exact_dedup_within_species_segment,6747,,,
+strict_with_expected_length,3165,,,
+clean_all_count_by_species_segment,67,Orthohantavirus andesense,L,
+clean_all_count_by_species_segment,307,Orthohantavirus andesense,M,
+clean_all_count_by_species_segment,177,Orthohantavirus andesense,S,
+clean_all_count_by_species_segment,574,Orthohantavirus hantanense,L,
+clean_all_count_by_species_segment,658,Orthohantavirus hantanense,M,
+clean_all_count_by_species_segment,576,Orthohantavirus hantanense,S,
+clean_all_count_by_species_segment,540,Orthohantavirus puumalaense,L,
+clean_all_count_by_species_segment,563,Orthohantavirus puumalaense,M,
+clean_all_count_by_species_segment,1331,Orthohantavirus puumalaense,S,
+clean_all_count_by_species_segment,482,Orthohantavirus seoulense,L,
+clean_all_count_by_species_segment,579,Orthohantavirus seoulense,M,
+clean_all_count_by_species_segment,549,Orthohantavirus seoulense,S,
+clean_all_count_by_species_segment,65,Orthohantavirus sinnombreense,L,
+clean_all_count_by_species_segment,166,Orthohantavirus sinnombreense,M,
+clean_all_count_by_species_segment,113,Orthohantavirus sinnombreense,S,
+length_qc_flag,3,,,too_long_for_segment
+length_qc_flag,3579,,,too_short_for_segment
+length_qc_flag,3165,,,within_expected_range
