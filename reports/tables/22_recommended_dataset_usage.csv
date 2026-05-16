@@ -1,0 +1,5 @@
+dataset,recommended_use,reason
+clean_all,Broad inspection and traceability,"Largest cleaned dataset, but may include more partial or less suitable sequences."
+strict,Main molecular audit,Biologically plausible segment lengths; useful for descriptive analysis.
+analysis_ready,"K-mers, PCA, clustering and exploratory classification",Strict sequences with low ambiguity rate; good balance between size and quality.
+complete_reference,Conservative phylogenetic analysis,Complete and low-ambiguity sequences; smaller but more interpretable for phylogeny.

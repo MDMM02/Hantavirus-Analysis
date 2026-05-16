@@ -1,0 +1,6 @@
+target_scientific_name,count,mean,std,min,25%,50%,75%,max
+Orthohantavirus andesense,233.0,0.4035,0.0231,0.3617,0.3791,0.4047,0.4218,0.4522
+Orthohantavirus hantanense,1058.0,0.4056,0.0248,0.3659,0.3797,0.4013,0.4285,0.4558
+Orthohantavirus puumalaense,876.0,0.3967,0.0231,0.3479,0.3836,0.3916,0.4219,0.4441
+Orthohantavirus seoulense,815.0,0.4038,0.024,0.3685,0.3788,0.3998,0.421,0.4703
+Orthohantavirus sinnombreense,183.0,0.392,0.0174,0.3495,0.377,0.3918,0.4019,0.4388

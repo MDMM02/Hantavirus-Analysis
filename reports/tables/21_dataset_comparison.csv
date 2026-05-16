@@ -1,0 +1,5 @@
+dataset,n_sequences,n_species,n_segments,mean_length,median_length,mean_gc_content,median_gc_content,mean_ambiguous_rate,pct_with_country,pct_with_collection_year
+clean_all,6747,5,3,1802.09,1008.0,0.4003,0.3996,0.00196,91.54,
+strict,3165,5,3,3272.32,3366.0,0.4017,0.3994,0.00348,94.69,81.9
+analysis_ready,3109,5,3,3252.98,3293.0,0.402,0.3996,0.00038,94.6,
+complete_reference,720,5,3,3882.27,3651.0,0.3959,0.3958,8e-05,95.83,

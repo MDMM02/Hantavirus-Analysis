@@ -1,0 +1,16 @@
+target_scientific_name,segment,count,mean,std,min,25%,50%,75%,max
+Orthohantavirus andesense,L,62.0,6511.52,92.9,5924.0,6478.25,6539.5,6546.75,6623.0
+Orthohantavirus andesense,M,75.0,3631.09,59.75,3386.0,3633.5,3651.0,3658.5,3696.0
+Orthohantavirus andesense,S,96.0,1715.09,336.29,924.0,1827.75,1857.0,1871.0,2122.0
+Orthohantavirus hantanense,L,272.0,6515.28,35.84,6322.0,6530.0,6530.0,6530.0,6550.0
+Orthohantavirus hantanense,M,334.0,3592.97,67.31,3070.0,3615.0,3616.0,3616.0,3648.0
+Orthohantavirus hantanense,S,452.0,1641.73,161.54,978.0,1660.0,1696.0,1699.0,3482.0
+Orthohantavirus puumalaense,L,125.0,6502.74,81.19,5972.0,6490.0,6523.0,6550.0,6588.0
+Orthohantavirus puumalaense,M,140.0,3565.27,154.92,3058.0,3447.0,3640.0,3679.0,3712.0
+Orthohantavirus puumalaense,S,611.0,1510.79,302.59,903.0,1299.0,1590.0,1814.5,1942.0
+Orthohantavirus seoulense,L,207.0,6465.04,127.3,5742.0,6456.0,6530.0,6530.0,6580.0
+Orthohantavirus seoulense,M,284.0,3576.09,121.78,3009.0,3551.0,3651.0,3651.0,3653.0
+Orthohantavirus seoulense,S,324.0,1637.13,221.64,903.0,1536.0,1756.0,1772.0,2123.0
+Orthohantavirus sinnombreense,L,52.0,6487.94,202.57,5705.0,6516.25,6541.0,6547.25,7373.0
+Orthohantavirus sinnombreense,M,61.0,3645.87,102.87,3080.0,3643.0,3668.0,3690.0,3797.0
+Orthohantavirus sinnombreense,S,70.0,1753.91,288.22,1074.0,1469.0,1952.0,2007.75,2130.0
